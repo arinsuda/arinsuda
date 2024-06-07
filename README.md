@@ -11,7 +11,7 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=arinsuda&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="arinsuda's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinsuda&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="Top Languages (Compact)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arinsuda&repo=repository-name&theme=nord" alt="Pinned Repository" />
+  <img src"" alt="Me" />
 </span>
 
 This is my contract
