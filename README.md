@@ -7,9 +7,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arinsuda&layout=pie" alt="Top Languages" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=arinsuda&layout=compact-layout" alt="WakaTime Stats" />
-  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=arinsuda&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="arinsuda's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinsuda&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="Top Languages (Compact)" />
 </span>
