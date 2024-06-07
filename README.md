@@ -3,7 +3,7 @@
 
 ##### This is my stats
 <span>
-  <img src="https://github.com/arinsuda/arinsuda/blob/arinsuda/Client/25650728-1659102297577.jpg" alt="Me" />
+  <img src="https://github.com/arinsuda/arinsuda/blob/arinsuda/Client/25650728-1659102297577.jpg" alt="Me" width="300" height="300"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arinsuda&layout=pie" alt="Top Languages" />
   </a>
