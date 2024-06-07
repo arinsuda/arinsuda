@@ -1,11 +1,11 @@
 ## Hi Guy I'm Arin👋
-<p>สวัสดีครับ ผม อรินทร์ สุดากิจจาทร หรือ ซิค(six) ปัจจุบันเป็นนักศึกษา(student) ปริญญาตรี(bachelor's degree) ที่ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)</p><br>
+<p>สวัสดีครับ ผม อรินทร์ สุดากิจจาทร หรือ ซิค(six) ปัจจุบันเป็นนักศึกษา(student) ปริญญาตรี(bachelor's degree) ที่ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี(KMUTT)</p>
 
 ##### This is my stats
 <span>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arinsuda&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arinsuda)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ar)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=arinsuda&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="arinsuda's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinsuda&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="arinsuda's GitHub Stats" />
 </span><br>
