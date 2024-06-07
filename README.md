@@ -3,12 +3,16 @@
 
 ##### This is my stats
 <span>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arinsuda&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=arinsuda&layout=compact-layout)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arinsuda&layout=pie" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=arinsuda&layout=compact-layout" alt="WakaTime Stats" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=arinsuda&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="arinsuda's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinsuda&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="arinsuda's GitHub Stats" />
-</span><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinsuda&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="Top Languages (Compact)" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arinsuda&repo=repository-name&theme=nord" alt="Pinned Repository" />
+</span>
 
 This is my contract
 - [Instagram](https://www.instagram.com/sxxarxn/)
