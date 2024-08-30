@@ -9,7 +9,7 @@
   </a>
 </span>
 
-This is my contract
+My Contact
 - [Instagram](https://www.instagram.com/sxxarxn/)
 - [Facebook](https://www.facebook.com/Sixtiena16)
 - [X](https://x.com/sixarin2002)
