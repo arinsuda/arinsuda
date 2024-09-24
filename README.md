@@ -7,6 +7,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arinsuda&layout=pie" alt="Top Languages" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent">
 </span>
 
 #### My Contact
