@@ -33,8 +33,7 @@ Backend project built with Java Spring Boot, MySQL, JWT, and RESTful API.
 
 ## Contact
 
-- GitHub: [github.com/arinsuda](
-- https://github.com/arinsuda)
+- GitHub: [github.com/arinsuda](https://github.com/arinsuda)
 - Email: sixarin.thorn@gmail.com
 - [Instagram](https://www.instagram.com/sxxarxn_/)
 - [Facebook](https://www.facebook.com/Sixtiena16)
